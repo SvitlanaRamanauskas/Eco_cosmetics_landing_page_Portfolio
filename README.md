@@ -1,6 +1,6 @@
 # Eco cosmetics landing page
 
-Link for [DEMO]
+Link for [DEMO](https://svitlanaramanauskas.github.io/Eco_cosmetics_landing_page_Portfolio/)
 
 Landing page was implemented according to [Figma design](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779%3A631&t=Gtk1Kj4TKq6BJit2-1) - useing BEM and SCSS
 
